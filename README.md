@@ -92,3 +92,27 @@ Para iniciar o servidor em modo de desenvolvimento, execute:
 
 ```bash
 npm run dev
+```
+
+## Testando a API
+Abra o seu navegador e vá para http://localhost:3000. Você deve ver a mensagem "Hello World!" exibida.
+
+## Estrutura do Projeto
+```
+hello-world-api/
+├── node_modules/
+├── src/
+│   └── index.js
+├── .env
+├── package.json
+└── package-lock.json
+```
+
+## Contribuição
+Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues e pull requests no repositório do GitHub.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+```
+Este README cobre os principais aspectos do seu projeto, incluindo a configuração do ambiente, desenvolvimento, execução e testes. Você pode ajustar conforme necessário para o seu projeto específico.
+```
